@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: cloudcomputing/nodeapp:latest
+        image: muhyogaap22/nodeapp:latest
         ports:
         - containerPort: 3000
         
